@@ -123,3 +123,6 @@ mod 'rgbank',
 mod 'netstat',
     git: 'https://github.com/ipcrm/ipcrm-netstat.git',
     ref: '64bcee0'
+mod 'demo_cis',
+    git: 'https://github.com/ipcrm/ipcrm-demo_cis.git',
+    ref: '4e6b63b'
